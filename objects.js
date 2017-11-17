@@ -1,1 +1,6 @@
-var playlist = {};
+
+
+function objects(){
+  var playlist = {};
+
+}
