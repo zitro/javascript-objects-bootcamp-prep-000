@@ -1,6 +1,6 @@
 
 
-function objects(){
+function objects(playlist){
   var playlist = {};
 
 }
